@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/*
+
+	Nonzero1.0 by nodethirtythree design
+	http://www.nodethirtythree.com
+	missing in a maze
+
+*/
+
+/* Basic Stuff */
+
+h3 a, h4 a, h5 a, h6 a,
+h3,h4,h5,h6
+{
+color: #184366;
+}
+
+a
+{
+color: #F16C00;
+}
+
+/* Header */
+
+#header
+{
+background: #440000 url('../img/blue/n1.gif') repeat-x;
+}
+
+/* Logo */
+
+#logo h2 a,
+#logo .widget_core_coll_tagline,
+#logo .widget_core_coll_tagline a,
+#logo h2
+{
+color: #D2DCE5;
+}
+
+/* Menu */
+
+#menu li a
+{
+background: #fff url('../img/blue/n4.gif') repeat-x;
+}
+
+#menu li a.active
+{
+background: #FF790B url('../img/blue/n3.gif') repeat-x;
+border: solid 1px #DB7623;
+}
+
+/* Main */
+
+#main
+{
+background: #fff url('../img/blue/n2.gif') 0px 1px repeat-x;
+}
+
+#main_inner .featurepost ul.post_info li.date,
+#main_inner .post ul.post_info li.date
+{
+background-image: url('../img/blue/n5.gif');
+}
+
+#main_inner .featurepost ul.post_info li.comments,
+#main_inner .post ul.post_info li.comments
+{
+background-image: url('../img/blue/n6.gif');
+}
+
+/* Search */
+
+.widget_core_coll_search_form input.submit,
+input.button
+{
+background: #FF790B url('../img/blue/n3.gif') repeat-x;
+border: solid 1px #DB7623;
+}

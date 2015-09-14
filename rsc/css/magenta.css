@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/*
+
+	Nonzero1.0 by nodethirtythree design
+	http://www.nodethirtythree.com
+	missing in a maze
+
+*/
+
+/* Basic Stuff */
+
+h3 a, h4 a, h5 a, h6 a,
+h3,h4,h5,h6
+{
+color: #601B66;
+}
+
+a
+{
+color: #D900B0;
+}
+
+/* Header */
+
+#header
+{
+background: #440000 url('../img/magenta/n1.gif') repeat-x;
+}
+
+/* Logo */
+
+#logo h2 a,
+#logo .widget_core_coll_tagline,
+#logo .widget_core_coll_tagline a,
+#logo h2
+{
+color: #E2D2E4;
+}
+
+/* Menu */
+
+#menu li a
+{
+background: #fff url('../img/magenta/n4.gif') repeat-x;
+}
+
+#menu li a.active
+{
+background: #CA2FAD url('../img/magenta/n3.gif') repeat-x;
+border: solid 1px #A94B97;
+}
+
+/* Main */
+
+#main
+{
+background: #fff url('../img/magenta/n2.gif') 0px 1px repeat-x;
+}
+
+#main_inner .featurepost ul.post_info li.date,
+#main_inner .post ul.post_info li.date
+{
+background-image: url('../img/magenta/n5.gif');
+}
+
+#main_inner .featurepost ul.post_info li.comments,
+#main_inner .post ul.post_info li.comments
+{
+background-image: url('../img/magenta/n6.gif');
+}
+
+/* Search */
+
+.widget_core_coll_search_form input.submit,
+input.button
+{
+background: #CA2FAD url('../img/magenta/n3.gif') repeat-x;
+border: solid 1px #A94B97;
+}
