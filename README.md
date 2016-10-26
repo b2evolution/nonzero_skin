@@ -2,6 +2,11 @@
 
 <img src="skinshot.png"/>
 
+#### v1.1.1
+
+- Tags removed from intro posts
+- New skinshot
+
 #### v1.1.
 
 - Sitewide_header included for easier multi-blogging experience

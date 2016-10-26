@@ -19,7 +19,7 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  */
 class nonzero_Skin extends Skin
 {
-	var $version = '1.1';
+	var $version = '1.1.1';
 	/**
 	* Get default name for the skin.
 	* Note: the admin can customize it.
